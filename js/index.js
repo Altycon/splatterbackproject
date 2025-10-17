@@ -63,7 +63,7 @@ async function getCurrentEvent(){
 
 function intializeSite(){
 
-    getCurrentEvent();
+    //getCurrentEvent();
 };
 
 intializeSite();
