@@ -696,12 +696,14 @@ strong {
     font-weight: 700;
 }
 
+.no-event-title,
 .event-title {
     font-size: 2rem;
     font-weight: 900;
     text-align: center;
 }
 
+.no-event-text,
 .event-text {
     padding-block: 24px;
     text-align: center;
@@ -721,11 +723,6 @@ strong {
 
 .no-event-display {
     height: fit-content;
-}
-
-.no-event-display>p {
-    font-size: 2rem;
-    text-align: center;
 }
 
 .featured-image {
